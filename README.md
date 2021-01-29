@@ -1,6 +1,6 @@
-# java33
+# javaAbstractFifo
 
-Java program that demonstrates FIFO 
+Java program that demonstrates FIFO pattern with Array and EVL ("Einfach verkettete Liste", or simple linked list)
 
 ## How to use
 
