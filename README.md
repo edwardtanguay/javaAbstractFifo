@@ -5,7 +5,7 @@ Java program that demonstrates FIFO pattern with Array and EVL ("Einfach verkett
 ## How to use
 
 - clone into directory
-- open directory in Visual Studio Code
+- open directory in Visual Studio Code ([download here free](https://visualstudio.microsoft.com/de/downloads))
 - click on `Hello.java`
 - click on "Run" icon in the upper right (GREEN ARROW in screenshot)
 - click on "Debug" icon in the upper right (RED ARROW in screenshot)
