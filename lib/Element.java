@@ -1,7 +1,7 @@
 package lib;
 
 public class Element {
-	String inhalt;
+	public String inhalt;
 	Element next;
 
 	public Element() {
