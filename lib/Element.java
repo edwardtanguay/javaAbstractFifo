@@ -5,7 +5,6 @@ public class Element {
 	Element next;
 
 	public Element() {
-
 	}
 
 	public Element(String s) {

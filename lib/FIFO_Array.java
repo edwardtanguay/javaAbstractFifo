@@ -8,9 +8,6 @@ public class FIFO_Array extends ADT_FIFO
     }
     public void neueSchlange(){
         q = new Element[100];
-        for (int i = 0; i<100; i++){
-            q[i] = null; 
-        }
     }
     public void einfügen(Element e)
     {

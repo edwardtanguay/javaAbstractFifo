@@ -5,7 +5,7 @@ import lib.FIFO_EVL;
 
 public class Main {
 	public static void main(String[] args) {
-		for (int i = 0; i < 1; i++) {
+		for (int i = 0; i <= 1; i++) {
 			ADT_FIFO FIFO_Schlange;
 			if (i == 0) {
 				FIFO_Schlange = new FIFO_Array();
@@ -15,7 +15,7 @@ public class Main {
 				System.out.println("EVL_FIFO wird erstellt");
 			}
 
-			String[] elemente = { "Akte 34234", "Akte 6433" };
+			String[] elemente = { "erste Akte", "zweite Akte" };
 			for (String inhalt : elemente) {
 				Element element = new Element(inhalt);
 				FIFO_Schlange.einfügen(element);
